@@ -9,7 +9,7 @@
 
 ### 📈 GitHub Stats  
 (These will update automatically)  
-![Suprita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupritaHongal&show_icons=true)
+![Suprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupritaHongal&show_icons=true)
 
 ### 📫 Contact  
 Email: supritahongal19@gmail.com 
