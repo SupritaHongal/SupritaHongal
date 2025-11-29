@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Suprita 👋  
 
-<!--
-**SupritaHongal/SupritaHongal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Coding Enthusiast | Cpp Programmer | Learning Full Stack | Aspiring Software Developer
 
-Here are some ideas to get you started:
+- 🔹 Currently learning *C, C++, DSA, HTML, CSS*
+- 🔹 Member of my college *Coding Club*
+- 🔹 I enjoy solving problems and building simple beginner projects  
+- 🔹 Exploring my path to become a *full-stack developer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats  
+(These will update automatically)  
+![Suprita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupritaHongal&show_icons=true)
+
+### 📫 Contact  
+Email: supritahongal19@gmail.com 
