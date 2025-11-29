@@ -8,7 +8,6 @@
 - 🔹 Exploring my path to become a *full-stack developer*
 
 ### 📈 GitHub Stats  
-(These will update automatically)  
 ![Suprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupritaHongal&show_icons=true&theme=default)
 
 ### 📫 Contact  
